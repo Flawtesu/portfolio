@@ -9,10 +9,10 @@ Hi my name is Aden, I am working on becoming a computer scientist. Currently wor
 - Improving on coding to work at a local job that requires the technical skills needed
 ## Projects
 ### Current working projects
-CMU CS Academy units
-Python flask 
-Jupyer notebook
+-  CMU CS Academy units
+-  Python flask 
+-  Jupyer notebook
 ## Info
-Email:Flawtesu@gmail.com
-Phone:(207)-601-2841
-Social media accounts ---> Soon
+- Email:Flawtesu@gmail.com
+- Phone:(207)-601-2841
+- Social media accounts --> Soon
