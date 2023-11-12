@@ -1,5 +1,5 @@
 title: Aden Dafe
-logo: /assets/img/aden.png
+logo: ![aden]/assets/img/aden.png
 description: Computer science portfolio
 #show_downloads: false
-theme: jekyll-theme-minimal
+theme: jekyll-theme-modernist
